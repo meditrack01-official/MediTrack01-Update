@@ -1,8 +1,11 @@
 {
   "product": "MediTrack01",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.0.2/MediTrack01_Setup.exe",
   "releaseDate": "24-07-2026",
   "downloadSize": "30.16 MB",
-  "releaseNotes": "√ Google Drive Backup\n√ Silent Cloud Upload\n√ Automatic Backup Scheduler Improvements\n√ Dashboard Improvements\n√ Bug Fixes"
+  "releaseNotes": ""Dashboard improvements",
+    "Backup improvements",
+    "Billing improvements",
+    "Bug fixes"
 }
