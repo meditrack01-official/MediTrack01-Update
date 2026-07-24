@@ -4,8 +4,10 @@
   "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.0.2/MediTrack01_Setup.exe",
   "releaseDate": "24-07-2026",
   "downloadSize": "30.16 MB",
-  "releaseNotes": ""Dashboard improvements",
+  "releaseNotes": [
+    "Dashboard improvements",
     "Backup improvements",
     "Billing improvements",
     "Bug fixes"
+  ]
 }
