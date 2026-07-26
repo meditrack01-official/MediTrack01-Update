@@ -1,8 +1,12 @@
 {
   "product": "MediTrack01",
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.0.3/MediTrack01_Setup.exe",
-  "releaseDate": "24-07-2026",
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.0.4/MediTrack01_Setup.exe",
+  "releaseDate": "26-07-2026",
   "downloadSize": "30.16 MB",
- "releaseNotes": "• Dashboard improvements\n• Backup improvements\n• Billing improvements\n• Bug fixes"
+ "releaseNotes": "{
+   ✓ Hospital Stock Module Added
+✓ Dashboard UI Improved
+✓ Bug Fixes
+✓ Performance Improved"
 }
