@@ -1,8 +1,8 @@
 {
   "product": "MediTrack01",
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.0.5/MediTrack01_Setup.exe",
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.0.7/MediTrack01_Setup.exe",
   "releaseDate": "31-07-2026",
   "downloadSize": "30.16 MB",
- "releaseNotes": "Role system simplified, dashboard improvements, bug fixes and performance improvements."
+ "releaseNotes": "Dasboard Update."
 }
