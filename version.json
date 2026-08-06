@@ -4,13 +4,5 @@
   "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.0.8/MediTrack01_Setup.exe",
   "releaseDate": "06-08-2026",
   "downloadSize": "30.16 MB",
-"releaseNotes": "
-• Improved OPD workflow
-• Added Patient Mode Engine
-• Enhanced UHID & OPD Number handling
-• Improved Repeat Patient logic
-• Fixed Other Hospital UHID issue
-• Enhanced OPD Slip printing & reprint
-• Code refactoring and performance improvements
-• Multiple bug fixes and stability enhancements"
+  "releaseNotes": "• Improved OPD workflow\n• Added Patient Mode Engine\n• Enhanced UHID & OPD Number handling\n• Improved Repeat Patient logic\n• Fixed Other Hospital UHID issue\n• Enhanced OPD Slip printing & reprint\n• Code refactoring and performance improvements\n• Multiple bug fixes and stability enhancements"
 }
