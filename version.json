@@ -1,7 +1,7 @@
 ﻿{
   "productName": "MediTrack01",
-  "version": "1.1.7",
-  "releaseDate": "12-08-2026",
-  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.1.7/MediTrack01_Setup.exe",
-  "releaseNotes": "\u2022 Added Developer Release Manager.\r\n\u2022 Added automatic GitHub release publishing.\r\n\u2022 Improved version and update management.\r\n\u2022 Improved GitHub integration and error handling.\r\n\u2022 Fixed JSON serialization issues."
+  "version": "1.1.8",
+  "releaseDate": "14-08-2026",
+  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.1.8/MediTrack01_Setup.exe",
+  "releaseNotes": "Added Today Procedure card.\r\n\n\nImproved Patient Summary card layout.\r\n\n\nUpdated Grand Total Collection section.\r\n\n\nFixed Procedure Collection display issue.\r\n\n\nImproved Today Report UI and printing."
 }
