@@ -1,7 +1,7 @@
 ﻿{
   "productName": "MediTrack01",
-  "version": "1.2.0",
-  "releaseDate": "16-08-2026",
-  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.2.0/MediTrack01_Setup.exe",
-  "releaseNotes": "\u26A1 Improvements\r\n1. \nImproved search workflow.\r\n2. \nEnhanced user experience.\n\r\n3. Better application stability and usability."
+  "version": "1.2.1",
+  "releaseDate": "24-08-2026",
+  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.2.1/MediTrack01_Setup.exe",
+  "releaseNotes": "MediTrack01 \u2013 Update Release Notes\r\n\n\nVersion Update\n\n\r\nPatient Search \u0026 Identification improved\r\n\nUHID matching and old patient identification improved\r\n\nRepeat / Old / New Patient logic improved\r\n\nRepeat patient visit-date calculation improved\r\n\nSame UHID reuse for repeat/old patients\n\r\nMultiple matching patients ke liye selection option\n\r\nNormal Search aur Update Search flow separated\r\nUpdate mode mein old OPD record correctly preserved\n\r\nNormal Search mein current/new OPD No maintained\n\r\nVisit Date handling improved\n\r\nSave / Update button mode handling improved\r\n\nPatient Type automatic assignment improved\n\r\nRefund/Update workflow improved\n\r\nOPD Slip printing and reprint flow improvements\r\n\nRecent Patient records/grid improvements\n\r\nVarious validation and stability improvements\r\nError handling and logging improvements\r\n\nBackup and application stability improvements"
 }
