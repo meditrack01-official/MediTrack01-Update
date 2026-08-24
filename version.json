@@ -1,7 +1,7 @@
 ﻿{
   "productName": "MediTrack01",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "releaseDate": "24-08-2026",
-  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.2.1/MediTrack01_Setup.exe",
-  "releaseNotes": "MediTrack01 v1.2.1\r\n\n\nPatient Search \u0026 Identification improved\r\n\nUHID matching \u0026 old patient identification improved\r\n\nNew / Old / Repeat Patient logic improved\n\r\nSearch \u0026 Update workflow improved\r\n\nOPD No. handling improved\n\r\nPatient visit-date handling improved\r\n\nOverall stability \u0026 performance improvements"
+  "downloadUrl": "https://github.com/meditrack01-official/MediTrack01-Update/releases/download/v1.2.2/MediTrack01_Setup.exe",
+  "releaseNotes": "Minor update and improvements."
 }
